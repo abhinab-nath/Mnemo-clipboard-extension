@@ -1,13 +1,11 @@
 <div align="center">
   <h1>Mnemo</h1>
-  <br/> 
+    <p>Mnemo lets you quickly save, store, and reuse small text snippets directly from your browser. Simple. Fast. Clean. No accounts.</p>
   <!-- Badges Row --> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Manifest-V3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <br/><br/>
-  <p>Mnemo lets you quickly save, store, and reuse small text snippets directly from your browser. Simple. Fast. Clean. No accounts.</p>
 </div>
 
 ---
@@ -31,8 +29,9 @@ Just memory — stored locally.
 
 ## 🎥 Preview
 
-> (Add a screenshot or GIF here later)
-
+<p align="center">
+<img align="center" justify="center" alt="menmo" src="https://github.com/abhinab-nath/Mnemo-clipboard-extension/blob/main/icons/mnemo.gif">
+</p>
 
 ---
 
