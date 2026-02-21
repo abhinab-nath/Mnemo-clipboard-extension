@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Mnemo",
+  "version": "1.0",
+  "description": "Save and copy small text snippets easily.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/copy-icon-16x16.png",
+        "48": "icons/copy-icon-48x48.png",
+        "128": "icons/copy-icon-128x128.png"
+    }
+  },
+  "icons": {
+    "16": "icons/copy-icon-16x16.png",
+    "48": "icons/copy-icon-48x48.png",
+    "128": "icons/copy-icon-128x128.png"
+  },
+  "permissions": ["storage"]
+}
